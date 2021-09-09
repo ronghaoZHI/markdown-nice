@@ -1,10 +1,8 @@
-![](https://my-wechat.mdnice.com/logo.svg)
-
 请使用 **Chrome** 浏览器。
 
 请阅读下方文本熟悉工具使用方法，本文可直接拷贝到微信中预览。
 
-## 1 Markdown Nice 简介
+## 1 简介
 
 - 支持自定义样式的 Markdown 编辑器
 - 支持微信公众号、知乎和稀土掘金
@@ -91,7 +89,7 @@ _这个是斜体_
 > 
 > 读一本好书，就是在和高尚的人谈话。 **——歌德**
 > 
-> [Markdown Nice最全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
+> [全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
 > 
 > ![这里写图片描述](https://my-wechat.mdnice.com/wechat.jpg)
 
@@ -103,7 +101,7 @@ _这个是斜体_
 >>
 >> 读一本好书，就是在和高尚的人谈话。 **——歌德**
 >>
->> [Markdown Nice最全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
+>> [全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
 >> 
 >> ![这里写图片描述](https://my-wechat.mdnice.com/wechat.jpg)
 
@@ -113,7 +111,7 @@ _这个是斜体_
 >>>
 >>> 读一本好书，就是在和高尚的人谈话。 **——歌德**
 >>>
->>> [Markdown Nice最全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
+>>> [全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
 >>> 
 >>> ![这里写图片描述](https://my-wechat.mdnice.com/wechat.jpg)
 
@@ -172,7 +170,7 @@ _这个是斜体_
 
 图片还可以和链接嵌套使用，能够实现推荐卡片的效果，用法如下：
 
-[![Markdown Nice 最全功能介绍](https://my-wechat.mdnice.com/dance.gif)](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
+[![最全功能介绍](https://my-wechat.mdnice.com/dance.gif)](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
 
 ## 4. 特殊语法
 
@@ -296,7 +294,7 @@ TOC 全称为 Table of Content，列出全部标题。由于示例标题过多�
 
 支持注音符号，用法如下：
 
-Markdown Nice 这么好用，简直是{喜大普奔|hē hē hē hē}呀！
+这么好用，简直是{喜大普奔|hē hē hē hē}呀！
 
 ### 4.6 横屏滑动幻灯片
 

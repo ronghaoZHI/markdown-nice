@@ -9,13 +9,13 @@ ReactDOM.render(
     useImageHosting={{
       url: "https://imgkr.com/api/files/upload",
       name: "图壳",
-      isSmmsOpen: false,
-      isQiniuyunOpen: false,
-      isAliyunOpen: true,
-      isGiteeOpen: true,
-      isGitHubOpen: true,
+      // isSmmsOpen: false,
+      // isQiniuyunOpen: false,
+      // isAliyunOpen: true,
+      // isGiteeOpen: true,
+      // isGitHubOpen: true,
     }}
-    defaultTitle="Markdown Nice"
+    defaultTitle="转转 - 文章发布平台"
   />,
   document.getElementById("root"),
 );

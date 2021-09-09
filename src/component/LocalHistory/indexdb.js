@@ -40,9 +40,10 @@ export default class IndexDB {
       };
 
       request.onsuccess = (event) => {
+        // IDBDataBase 接口
+        // event.target.result == request.result
         const db = event.target.result;
         console.log("成功初始化数据库");
-        // this.db = db;
         resolve(db);
       };
 
@@ -56,8 +57,17 @@ export default class IndexDB {
   }
 
   initStore(db, name, options, func) {
+    // 为该数据库创建一个对象仓库 db.createObjectStore("name", { keyPath: "myKey" });
     // 创建一个对象存储空间来持有信息。
     const objectStore = db.createObjectStore(name, options);
+    // func(objectStore) 操作仓库 store
+    // createIndex('id', 'id', { unique: true });
+    // objectStore.add(customer)
+    // objectStore.get("xxx")
+    // objectStore.put(data)
+    // objectStore.count(key)
+    // objectStore.delete(key)
+    // objectStore.clear()
     if (func) func(objectStore);
   }
 }

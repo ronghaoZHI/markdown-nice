@@ -1,18 +1,9 @@
 {
-  "name": "markdown-nice",
-  "author": "mdnice",
+  "name": "zz-markdown-nice",
   "description": "a markdown editor with the function of style edition",
   "version": "1.8.22",
   "private": false,
-  "main": "lib/Lib.js",
-  "module": "lib/Lib.js",
-  "homepage": "https://www.mdnice.com",
   "license": "GPL-3.0",
-  "typings": "./lib/index.d.ts",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mdnice/markdown-nice"
-  },
   "scripts": {
     "start": "node scripts/start.js",
     "watch": "node ./watch.js",

@@ -15,7 +15,7 @@ class SitDownFunction extends Component {
       <div id="nice-menu-sitdown" className="nice-menu-item" onClick={this.handleClick}>
         <span>
           <span className="nice-menu-flag" />
-          <span className="nice-menu-name">SitDown</span>
+          <span className="nice-menu-name">HTML2MD</span>
         </span>
       </div>
     );

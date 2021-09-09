@@ -182,11 +182,11 @@ export const TUTORIALS = [
   {
     title: "第6关：链接",
     content: `
-[Markdown Nice最全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
+[最全功能介绍](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)
 
 图片还可以和链接嵌套使用，能够实现推荐卡片的效果，用法如下：
 
-[![Markdown Nice 最全功能介绍](https://my-wechat.mdnice.com/dance.gif)](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)`,
+[![ 最全功能介绍](https://my-wechat.mdnice.com/dance.gif)](https://mp.weixin.qq.com/s/lM808MxUu6tp8zU8SBu3sg)`,
     picture: "https://gitee.com/guanpengchn/picture/raw/master/2020-9-25/1601015877358-image.png",
   },
   {
@@ -292,7 +292,7 @@ diff 效果：
   {
     title: "第15关：注音符号",
     content: `
-Markdown Nice 这么好用，简直是{喜大普奔|hē hē hē hē}呀！`,
+ 这么好用，简直是{喜大普奔|hē hē hē hē}呀！`,
     picture: "https://gitee.com/guanpengchn/picture/raw/master/2020-9-9/1599653309651-2.5注音符号.png",
   },
   {
